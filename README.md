@@ -22,3 +22,5 @@
 1. Bu projeyi klonlayın:
    ```bash
    git clone https://github.com/beyzaecee/DunyaKasifiAR.git
+## Drive adresi
+https://drive.google.com/drive/u/0/folders/1XTiXJUu1U66BKabNa5iVsCjrqs4WAo5J
